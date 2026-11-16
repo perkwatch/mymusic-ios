@@ -1,0 +1,18 @@
+{
+  "android": {
+    "allowMixedContent": false
+  },
+  "appId": "com.buckthem.mymusic",
+  "appName": "MyMusic",
+  "backgroundColor": "#ffffff",
+  "ios": {
+    "contentInset": "always",
+    "preferredContentMode": "mobile"
+  },
+  "server": {
+    "androidScheme": "https",
+    "cleartext": false,
+    "url": "https://buckthem.com/mymusic/app"
+  },
+  "webDir": "www"
+}
